@@ -1,4 +1,4 @@
-Note: Since it will take a long time to train the model while pruning,the compressed model .npz file has been saved in compressed models folder, and the output of running main.py has been attached in output.txt
+
 
 # CNN Compression Pipeline for CIFAR-10
 
