@@ -1,4 +1,4 @@
-Note: Since it will take a long time to train the model while pruning,the compressed model .npz file has been saved in compressed models folder, and the output of running main.py has been attached in output.txt
+
 
 # CNN Compression Pipeline for CIFAR-10
 
@@ -147,7 +147,7 @@ Or programmatically:
 
 ## Notes
 
-- Training can take significant time on CPU (it took me 2+ hours :cry:
+- Training can take significant time on CPU (it took me 2+ hours :
 - For quick testing, reduce epochs in `config.py`  
 - Ensure the output directory exists:  
   `compressed_models/vgg_compressed.npz`  
