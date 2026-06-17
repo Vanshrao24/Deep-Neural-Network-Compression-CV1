@@ -147,7 +147,7 @@ Or programmatically:
 
 ## Notes
 
-- Training can take significant time on CPU (it took me 2+ hours :cry:
+- Training can take significant time on CPU (it took me 2+ hours :
 - For quick testing, reduce epochs in `config.py`  
 - Ensure the output directory exists:  
   `compressed_models/vgg_compressed.npz`  
